@@ -15,10 +15,10 @@ Ever since building my first tiny python program back in 2018, I've never stoppe
 This project is still currently in early development. We started development on August 15th 2026, and we update the game weekly. We aim to have a complete game sometime mid December 2026.
 
 ## Collaborators
-Programming Lead: Me :) (https://github.com/bovars-code)
-Art Lead: Yakuiit (https://github.com/yakuiit)
-Level Design Lead: Dom (https://github.com/domenicsantacroce0808-sudo)
+Programming Lead: Me :) (https://github.com/bovars-code)<br>
+Art Lead: Yakuiit (https://github.com/yakuiit)<br>
+Level Design Lead: Dom (https://github.com/domenicsantacroce0808-sudo)<br>
 
 ## Development
-Dev Log: https://docs.google.com/document/d/178vUv_-FHMNeE4tGr1NvavHyGbRyvaoft2kA5Bzw0CY/edit?usp=sharing
-Playtesting Form: https://docs.google.com/forms/d/e/1FAIpQLSeJTJggOVc0kFL4Zgr0VIRojNSTMh1RSxvfJqmVGUx7CTKAxg/viewform
+Dev Log: https://docs.google.com/document/d/178vUv_-FHMNeE4tGr1NvavHyGbRyvaoft2kA5Bzw0CY/edit?usp=sharing<br>
+Playtesting Form: https://docs.google.com/forms/d/e/1FAIpQLSeJTJggOVc0kFL4Zgr0VIRojNSTMh1RSxvfJqmVGUx7CTKAxg/viewform<br>
